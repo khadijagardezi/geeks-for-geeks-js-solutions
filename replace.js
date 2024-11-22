@@ -26,3 +26,8 @@ let result = replace(number);
 console.log(result); 
 // Output: 1515151515
 
+/*
+Complexity
+Time Complexity: O(n), where n is the number of digits in the number. This is due to iterating over the string representation.
+Space Complexity: O(n), for storing the string representation.
+*/
